@@ -1,5 +1,7 @@
 # AI 工作台起步（ai-workbench-starter）
 
+**中文** ｜ [English](README.en.md)
+
 AI 窗口开多了，谁在干什么、干到哪了，全靠脑子记？
 
 这是一个给 AI 读的 skill。让它在你电脑的一个文件夹里搭起五样东西，以后换哪个窗口、哪个 AI 来，都能接着干：
@@ -29,6 +31,8 @@ AI 窗口开多了，谁在干什么、干到哪了，全靠脑子记？
    > 先读 `AI工作台/规则.md` 和 `ai-workbench-starter/SKILL.md`，验收刚才那张派活单。
 5. 第二天：
    > 早上看一页。
+
+英文版在 `ai-workbench-starter-en/`，内容一样，建出来的文件夹叫 `ai-workbench`。两版选一个用。
 
 会用技能目录的，把 `ai-workbench-starter` 文件夹放进去即可（这条路还没逐个客户端试过）。
 
